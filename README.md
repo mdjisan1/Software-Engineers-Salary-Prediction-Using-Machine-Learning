@@ -108,6 +108,7 @@ accessible to end users for future use.
 METHODOLOGY
 
 The approach adopted in this work is outlined in Figure 1:
+![Screenshot 2025-02-19 142826](https://github.com/user-attachments/assets/8a72f7b0-0a1d-46b5-87f4-396ad587574f)
 
 A. Data Acquisition
 
